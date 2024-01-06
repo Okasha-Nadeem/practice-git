@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javafx.fxml.Initializable"/>
+    <fullyQualifiedTypeName name="javafx.scene.web.WebView"/>
+    <fullyQualifiedTypeName name="javafx.fxml.FXML"/>
+    <fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+    <fullyQualifiedTypeName name="javafx.scene.web.WebEngine"/>
+    <fullyQualifiedTypeName name="javafx.scene.web.WebHistory"/>
+    <fullyQualifiedTypeName name="javafx.collections.ObservableList"/>
+    <fullyQualifiedTypeName name="javafx.scene.web.WebHistory.Entry"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
+    <fullyQualifiedTypeName name="javafx.scene.Parent"/>
+    <fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="javafx.scene.Group"/>
+</qualifiedTypeNameHistroy>
